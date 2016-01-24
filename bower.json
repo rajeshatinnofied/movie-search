@@ -1,0 +1,11 @@
+{
+  "name": "jQueryStarted",
+  "private": "true",
+  "devDependencies": {},
+  "dependencies": {
+  	"jquery": "",
+  	"jquery-ui": "",
+  	"bootstrap": "",
+  	"fontawesome": ""
+  }
+}
